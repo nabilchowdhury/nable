@@ -1,0 +1,13 @@
+{
+  "name": "john-wu",
+  "version": "0.0.0",
+  "description": "Nable",
+  "main": "server.js",
+  "author": "Macrohard",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.9.2",
+    "twilio": "^2.11.1"
+  }
+}

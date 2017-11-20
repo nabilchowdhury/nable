@@ -1,0 +1,3 @@
+rootProject.name = 'Nable'
+
+include ':app'
